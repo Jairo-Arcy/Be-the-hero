@@ -1,6 +1,6 @@
 # Be the hero :blue_heart:
  
- - Projeto criado pela ![Rocketseat](https://app.rocketseat.com.br/) para ensinar devs a stack JavaScript :collision: 
+ - Projeto criado pela [Rocketseat](https://app.rocketseat.com.br/) para ensinar devs a stack JavaScript :collision: 
 
 
 # Libs/Dependências :books:
