@@ -12,9 +12,14 @@ routes.post('/sessions', SessionController.create)
 
 routes.get('/ongs', OngController.index)
 routes.post('/ongs', celebrate({
-  
-
-}), OngController.create, )
+  [Segments.BODY]: Joi.object().keys({
+      name: Joi.string().required(),
+      email: Joi.string().required().email(),
+      whatsapp: Joi.string().required().min(10).max(11),
+      city: Joi.string().required(),
+      uf: Joi.string().required().length(2),
+  }),
+}), OngController.create)
 
 routes.get('/profile', ProfileController.index)
 
