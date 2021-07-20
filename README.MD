@@ -34,9 +34,9 @@
 
   ## Página Inicial
 
-    <img src="assets/images/profile.png" />
+   <img src="assets/images/profile.png" />
 
-    - Versão final :heavy_check_mark:
+   - Versão final :heavy_check_mark:
 
   ## Novo Caso 
 
