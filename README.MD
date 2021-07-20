@@ -1,6 +1,6 @@
 # Be the hero :blue_heart:
  
- - Projeto criado pela [Rocketseat](https://app.rocketseat.com.br/) para ensinar devs a stack JavaScript :collision: 
+- Projeto criado pela Rocketseat para ensinar devs a stack JavaScript :collision: 
 
 
 # Libs/Dependências :books:
@@ -26,3 +26,20 @@
    - Versão final :heavy_check_mark:
 
 
+  ## Cadastro 
+   
+   <img src="assets/images/register.png" />
+
+   - Versão final :heavy_check_mark:
+
+  ## Página Inicial
+
+    <img src="assets/images/profile.png" />
+
+    - Versão final :heavy_check_mark:
+
+  ## Novo Caso 
+
+   <img src="assets/images/registerCase.png" />
+
+   - Versão final :heavy_check_mark:
